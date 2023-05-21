@@ -28,6 +28,7 @@ public class Test
     public int beispielMethode(int y)
     {
         // tragen Sie hier den Code ein
+        System.out.println(x + y);
         return x + y;
     }
 }
