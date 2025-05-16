@@ -29,6 +29,6 @@ public class Test
     {
         // tragen Sie hier den Code ein
         
-        return x - y;
+        return x / y;
     }
 }
